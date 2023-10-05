@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main() {
-	    const char *message = "Hello, World!";
-	        puts(message);  // Output: Hello, World!
+	  const char *message = "Hello, World!";
+	     puts(message);
 
-		    return 0;
+return 0;
 }
