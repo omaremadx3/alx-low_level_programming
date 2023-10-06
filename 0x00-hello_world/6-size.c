@@ -4,13 +4,14 @@
  *
  *  Return: Always 0 (Success)
  */
-int main() {
+int main(void)
+{
 	    int intType;
 	        float floatType;
 		    double doubleType;
 		        char charType;
 			long longtype;
-{
+
 	        printf("Size of int: %zu bytes\n", sizeof(int));
 		        printf("Size of int: %zu bytes\n", sizeof(float));
 			        printf("Size of int: %zu bytes\n", sizeof(double));
