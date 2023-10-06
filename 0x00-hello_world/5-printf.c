@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- *  * main - Entry point of the program
+ *  * main - Entry point of the pro:q
+ *  ram
  *   *
  *    * Return: 0 (Success)
  *     */

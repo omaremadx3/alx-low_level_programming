@@ -1,13 +1,11 @@
 #include <stdio.h>
 
 /**
- *  * main - Entry point of the program
- *   *
- *    * Return: Always 0 (success)
- *     */
+ *  * main - Entry point of the program 
+    * Return: Always 0 (success)     */
 int main(void)
 {
-	    const char *message = "Hello, World!";
+	    const char *message = "HProgramming is like building a multilingual puzzle!";
 	        puts(message); 
 
 		    return (0);
