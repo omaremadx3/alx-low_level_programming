@@ -1,11 +1,10 @@
 #include <stdio.h>
 
 /**
- *main - Entry point of the program
+ * main - Entry point of the program
  *
- *Return: Always 0 (Success)
- *
- u*/
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {
