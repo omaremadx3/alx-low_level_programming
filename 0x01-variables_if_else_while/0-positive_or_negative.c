@@ -2,14 +2,16 @@
 #include <time.h>
 /* more headers goes there */
 #include <stdio.h>
-/*
-*this a program that prints random number
-*between a range of numbers and checks if it's 
-*+ - or = 0
-*
-*
-*/
-int main()
+/**
+ *
+ * main - Entry point
+ *
+ *
+ * Return: Always 0 (Success)
+ *
+ *
+ */
+int main(void)
 {
 
 int n;
@@ -29,5 +31,5 @@ else
 {
 printf("%d is negative\n", n);
 }
-return 0;
+return (0);
 }
