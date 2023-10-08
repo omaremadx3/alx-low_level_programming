@@ -3,14 +3,13 @@
 /* more headers goes there */
 #include <stdio.h>
 /**
- *
  * main - Entry point
  *
+ * Description: prints a random intger and checks if it's +,- or =zero
  *
  * Return: Always 0 (Success)
  *
- *
- */
+*/
 int main(void)
 {
 
