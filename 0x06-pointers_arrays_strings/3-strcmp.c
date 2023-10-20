@@ -7,12 +7,12 @@
  */
 int _strcmp(char *s1, char *s2)
 {
-int x = 0, y, z;
-while (s1[x] != '\0' || s2[x] != '\0')
+int i = 0, y, z;
+while (s1[i] != '\0' || s2[i] != '\0')
 {
-x++;
+i++;
 }
-for (y = 0; y < x; y++)
+for (y = 0; y < i; y++)
 {
 if (s1[y] != s2[y])
 {
