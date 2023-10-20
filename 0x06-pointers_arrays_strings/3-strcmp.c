@@ -1,8 +1,8 @@
 #include "main.h"
 /**
  * _strcmp - compare srings
- * @s1: 1st string
- * @s2: 2nd string
+ * @n1: 1st string
+ * @n2: 2nd string
  * Return: 0 less than 0 or greater
  */
 int _strcmp(char *n1, char *n2)
